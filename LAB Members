@@ -1,1 +1,57 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Publications (Suraj Kumar Mallick)</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
 
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+								<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>About me and my research</strong> </a>
+									<ul class="icons">
+										<li><a href="https://www.researchgate.net/profile/Suraj-Mallick" target="_blank" class="image"><img src="images/researchgate1.png" style="width:30px;height:30px;"> </a></li>
+										<li><a href="https://scholar.google.com/citations?user=-PPZK7MAAAAJ&hl=en" target="_blank" class="image"><img src="images/GoogleScholar1.png" style="width:30px;height:30px;"> </a></li>
+										<li><a href="https://www.linkedin.com/in/suraj-kumar-mallick-764217106/" target="_blank" class="image"><img src="images/linkedin1.png" style="width:30px;height:30px;"> </a></li>
+										<li><a href="https://orcid.org/0000-0003-0994-086X" target="_blank" class="image"><img src="images/orcid1.png" style="width:30px;height:30px;"> </a></li>
+																
+										
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Skills</h1>
+									</header>
+
+									<img src="images/skills.png" width="350" height="184"
+									
+
+									
+									<hr class="major" />
+
+									<h2>Ph.D Scholar</h2>
+
+								
+
+									
+								<ol>
+									<li> Pragya </li>
+									<li> Tamanna Mishra </li>
+									
+								</ol>
